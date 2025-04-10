@@ -1,6 +1,5 @@
 <h3 align="center">Olá, eu sou o Breno. Aqui você verá um pouco mais sobre mim!</h3>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1BrenoAlv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="110" alt="stats graph"  />
@@ -30,16 +29,7 @@
   </a>
 </div>
 
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/1BrenoAlv/1BrenoAlv/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img height="100" src=""  />
-</div>
-
-###
