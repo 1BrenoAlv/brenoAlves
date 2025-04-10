@@ -32,8 +32,4 @@
 
 ###
 
-<br clear="both">
 
-![snake gif](https://github.com/1Brenoalv/1Brenoalv/blob/output/github-contribution-grid-snake.svg)
-
-###
